@@ -13,7 +13,7 @@ Note:
 All the student records are given as a json file.
 
 ## Record Keeping System Design Diagram
-
+![Record Keeping System Design Diagram](Design_diagram.PNG)
 
 
 
