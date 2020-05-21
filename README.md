@@ -12,6 +12,9 @@ Imagine you are working at the “XYZ” school as a grade 10 section-head. You 
 Note:
 All the student records are given as a json file.
 
+## Record Keeping System Design Diagram
+
+
 
 
 
